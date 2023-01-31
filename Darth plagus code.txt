@@ -1,0 +1,20 @@
+<html>
+
+<head>
+<title>Leo's HTML Code</title>
+</head>
+
+<body>
+<body style="background-color:#8f3d3d;">
+
+<h1 style="text-align:center;">Hello, Anakin.</h1>
+
+<center><img src="https://i.pinimg.com/originals/19/0c/9b/190c9b2ef2d09e8490119ce45ca4c2bd.jpg" alt="Not a Sith"
+width="750" height="500">
+
+<center><p style="font-family:verdana;">Did you ever hear the <i>tragedy of <b>Darth Plagueis The Wise?</b></i></p>
+
+<center><a href="https://youtu.be/05dT34hGRdg?t=8">No?</a>
+
+</body>
+</html>
