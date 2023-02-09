@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3133ce4511461414499484292862cb48
+guid: f4b129108a7b9ce41bc9dbd0d56bb220
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -116,7 +116,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mainchardraft2 1_0
+      name: itembox_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63119976eb6045b4686841feea01066b
+      internalID: 1809266528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itembox_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf8049863cad3a43a5dc6c3fea529b4
+      internalID: -833117560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itembox_2
       rect:
         serializedVersion: 2
         x: 0
@@ -130,14 +172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b873fe426b6fb624e9097d6db086b8d6
-      internalID: -2056926924
+      spriteID: 50bba14a591370d4bb33ce34fd11967c
+      internalID: 379740332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mainchardraft2 1_1
+      name: itembox_3
       rect:
         serializedVersion: 2
         x: 16
@@ -151,113 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20366462f2a13e94280cc5cbf9369411
-      internalID: 1561685000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mainchardraft2 1_2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68b66768f847aae4b963484204106eaa
-      internalID: 1495847966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mainchardraft2 1_3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: adb10f33e6a0cb34db787af1d1043a04
-      internalID: 1747815840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mainchardraft2 1_4
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e65d096d653061b4180380679647b54e
-      internalID: -438544988
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mainchardraft2 1_5
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c480ebd5e70378242add572d0f075c12
-      internalID: 1854636104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mainchardraft2 1_6
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42232f013aaf80d4d96657e638902f18
-      internalID: -1933724003
+      spriteID: 17a73a0b88729834cae2fc545ef6e30f
+      internalID: 1212742428
       vertices: []
       indices: 
       edges: []
@@ -273,13 +210,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      mainchardraft2 1_4: -438544988
-      mainchardraft2 1_0: -2056926924
-      mainchardraft2 1_6: -1933724003
-      mainchardraft2 1_5: 1854636104
-      mainchardraft2 1_1: 1561685000
-      mainchardraft2 1_2: 1495847966
-      mainchardraft2 1_3: 1747815840
+      itembox_1: -833117560
+      itembox_0: 1809266528
+      itembox_2: 379740332
+      itembox_3: 1212742428
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
